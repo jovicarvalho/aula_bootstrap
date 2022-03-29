@@ -1,0 +1,47 @@
+body{
+  font: 20px Arial, sans-serif ; 
+}
+
+.navbar {
+  background-color: #87CEFAC1;
+}
+
+.quemsomos {
+  background-color: whitesmoke;
+  padding-top: 30px;
+}
+
+.margin {
+  padding-bottom: 30px;
+}
+
+.time {
+  padding-top:30px
+}
+
+.form-control{
+  margin-top:40px;
+}
+.parceiros{
+  background-color:#363636;
+  color: white ; 
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+
+.divisao-parceiros{
+  padding-bottom: 20px;
+}
+
+.servicos{
+  padding-top:30px ;
+  background-color: whitesmoke;
+  color:black
+}
+
+.bg-footer{
+  background-color: black;
+  color:white;
+  padding-top:50px;
+  padding-bottom:50px;
+}
